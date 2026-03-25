@@ -21,7 +21,7 @@ public class GameManager : MonoBehaviour
 	public float waterTime = 5.0f;// que sea igual que la animacion de crecimiento de la planta
     public GameObject fruitHolder;
 	public GameObject waterHolder;
-	public Animator plantAnim;
+	private Animator plantAnim;
 
     [HideInInspector] public GameState currentState = GameState.Plant;
 	[HideInInspector] public bool isInteractionSucceed = false;
@@ -37,13 +37,15 @@ public class GameManager : MonoBehaviour
 	//	Al iniciar "Start()", cambiamos el sprite del jugador segun el estado del juego
 	private void Start()
 	{
-		playerSprite.sprite = sprites[(int)currentState];
+		plantAnim = seed.gameObject.GetComponent<Animator>();
+        playerSprite.sprite = sprites[(int)currentState];
 		slider.gameObject.SetActive(false);
 		fruitHolder.SetActive(false);
 		waterHolder.SetActive(false);
 		panel.SetActive(false);
 		seed.SetActive(false);
 		InfoUpdate(currentState);
+
 	}
 
 	//	Cada frame validamos en que estado esta el juego y ejecutamos la logica de este
@@ -74,7 +76,7 @@ public class GameManager : MonoBehaviour
 				timer += Time.deltaTime;
 				slider.value = timer / waterTime;
                 if (plantAnim != null)
-                    plantAnim.speed = 1f/waterTime; 
+                    plantAnim.speed = 2.5f/waterTime; 
                 //	Si se alcanza el maximo valor cambiamos de estado "ChangeState()"
                 if (timer >= waterTime)
 				{
@@ -92,8 +94,8 @@ public class GameManager : MonoBehaviour
 			}
 			else
 			{
-                if (plantAnim != null)
-				{
+                if (plantAnim.GetCurrentAnimatorClipInfo(0).Length > 0 && plantAnim.GetCurrentAnimatorClipInfo(0)[0].clip.name == "Growing")
+                {
                     plantAnim.speed = 0f;
                 }
             }
