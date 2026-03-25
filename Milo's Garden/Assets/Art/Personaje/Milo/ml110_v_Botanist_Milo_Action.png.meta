@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: 89871b79a8f266d428edd74c537d24d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4516742656134279594
+    second: ml110_v_Botanist_Milo_Action_0
+  - first:
+      213: 1722175893300207548
+    second: ml110_v_Botanist_Milo_Action_1
+  - first:
+      213: -471080275861972390
+    second: ml110_v_Botanist_Milo_Action_2
+  - first:
+      213: 6516453385391652491
+    second: ml110_v_Botanist_Milo_Action_3
+  - first:
+      213: -4551585058531667820
+    second: ml110_v_Botanist_Milo_Action_4
+  - first:
+      213: -8366905718903712186
+    second: ml110_v_Botanist_Milo_Action_5
+  - first:
+      213: 481668682234866520
+    second: ml110_v_Botanist_Milo_Action_6
+  - first:
+      213: 9112421748787314360
+    second: ml110_v_Botanist_Milo_Action_7
+  - first:
+      213: 4237191179346455862
+    second: ml110_v_Botanist_Milo_Action_8
+  - first:
+      213: 8719636612482091084
+    second: ml110_v_Botanist_Milo_Action_9
+  - first:
+      213: -3383416423947462638
+    second: ml110_v_Botanist_Milo_Action_10
+  - first:
+      213: 5623176449882856842
+    second: ml110_v_Botanist_Milo_Action_11
+  - first:
+      213: 4581750613961605374
+    second: ml110_v_Botanist_Milo_Action_12
+  - first:
+      213: -8599343021423312134
+    second: ml110_v_Botanist_Milo_Action_13
+  - first:
+      213: -2517802151147168164
+    second: ml110_v_Botanist_Milo_Action_14
+  - first:
+      213: -1625920837475802993
+    second: ml110_v_Botanist_Milo_Action_15
+  - first:
+      213: 6525911270350215982
+    second: ml110_v_Botanist_Milo_Action_16
+  - first:
+      213: -1180595919927860733
+    second: ml110_v_Botanist_Milo_Action_17
+  - first:
+      213: -6741155500023557851
+    second: ml110_v_Botanist_Milo_Action_18
+  - first:
+      213: -4521892441392504008
+    second: ml110_v_Botanist_Milo_Action_19
+  - first:
+      213: 1733257615798748126
+    second: ml110_v_Botanist_Milo_Action_20
+  - first:
+      213: 4562323771969924675
+    second: ml110_v_Botanist_Milo_Action_21
+  - first:
+      213: -5819969111761858146
+    second: ml110_v_Botanist_Milo_Action_22
+  - first:
+      213: 5230608389079214309
+    second: ml110_v_Botanist_Milo_Action_23
+  - first:
+      213: 4212046558069075833
+    second: ml110_v_Botanist_Milo_Action_24
+  - first:
+      213: -1780101066879751741
+    second: ml110_v_Botanist_Milo_Action_25
+  - first:
+      213: -2074310510109161149
+    second: ml110_v_Botanist_Milo_Action_26
+  - first:
+      213: -4108953790050041344
+    second: ml110_v_Botanist_Milo_Action_27
+  - first:
+      213: -2722326073055427477
+    second: ml110_v_Botanist_Milo_Action_28
+  - first:
+      213: 3584910329889609138
+    second: ml110_v_Botanist_Milo_Action_29
+  - first:
+      213: -7329569734276492286
+    second: ml110_v_Botanist_Milo_Action_30
+  - first:
+      213: -7140854242516395023
+    second: ml110_v_Botanist_Milo_Action_31
+  - first:
+      213: 8671282534360315178
+    second: ml110_v_Botanist_Milo_Action_32
+  - first:
+      213: -8664364036763432834
+    second: ml110_v_Botanist_Milo_Action_33
+  - first:
+      213: 2239539886443788502
+    second: ml110_v_Botanist_Milo_Action_34
+  - first:
+      213: -3030394202606465996
+    second: ml110_v_Botanist_Milo_Action_35
+  - first:
+      213: 4431747751808500905
+    second: ml110_v_Botanist_Milo_Action_36
+  - first:
+      213: 1105650578215892866
+    second: ml110_v_Botanist_Milo_Action_37
+  - first:
+      213: -6128204909081079502
+    second: ml110_v_Botanist_Milo_Action_38
+  - first:
+      213: 1069300801244352285
+    second: ml110_v_Botanist_Milo_Action_39
+  - first:
+      213: -7907619431886219008
+    second: ml110_v_Botanist_Milo_Action_40
+  - first:
+      213: 389724666751408645
+    second: ml110_v_Botanist_Milo_Action_41
+  - first:
+      213: 2745999630223167255
+    second: ml110_v_Botanist_Milo_Action_42
+  - first:
+      213: 2139918740506353954
+    second: ml110_v_Botanist_Milo_Action_43
+  - first:
+      213: -2656377725789067126
+    second: ml110_v_Botanist_Milo_Action_44
+  - first:
+      213: -3188730749820202816
+    second: ml110_v_Botanist_Milo_Action_45
+  - first:
+      213: -3057599271981495871
+    second: ml110_v_Botanist_Milo_Action_46
+  - first:
+      213: 4617184150214618500
+    second: ml110_v_Botanist_Milo_Action_47
+  - first:
+      213: -5130902830857012359
+    second: ml110_v_Botanist_Milo_Action_48
+  - first:
+      213: -7689509613926783055
+    second: ml110_v_Botanist_Milo_Action_49
+  - first:
+      213: 7436461984441093055
+    second: ml110_v_Botanist_Milo_Action_50
+  - first:
+      213: 5599061981781159394
+    second: ml110_v_Botanist_Milo_Action_51
+  - first:
+      213: -7579095952033497862
+    second: ml110_v_Botanist_Milo_Action_52
+  - first:
+      213: 636626018047831646
+    second: ml110_v_Botanist_Milo_Action_53
+  - first:
+      213: 2555827713377657284
+    second: ml110_v_Botanist_Milo_Action_54
+  - first:
+      213: -4472464285621656326
+    second: ml110_v_Botanist_Milo_Action_55
+  - first:
+      213: -4334327546242013494
+    second: ml110_v_Botanist_Milo_Action_56
+  - first:
+      213: -5438651172070325432
+    second: ml110_v_Botanist_Milo_Action_57
+  - first:
+      213: -7751071822007744240
+    second: ml110_v_Botanist_Milo_Action_58
+  - first:
+      213: -1393226009849932791
+    second: ml110_v_Botanist_Milo_Action_59
+  - first:
+      213: 3081875579225855760
+    second: ml110_v_Botanist_Milo_Action_60
+  - first:
+      213: -2505911207813292536
+    second: ml110_v_Botanist_Milo_Action_61
+  - first:
+      213: -5586517218359893381
+    second: ml110_v_Botanist_Milo_Action_62
+  - first:
+      213: 8239069138059021319
+    second: ml110_v_Botanist_Milo_Action_63
+  - first:
+      213: -1988147046363548817
+    second: ml110_v_Botanist_Milo_Action_64
+  - first:
+      213: 204979284208386620
+    second: ml110_v_Botanist_Milo_Action_65
+  - first:
+      213: 1577160310777829600
+    second: ml110_v_Botanist_Milo_Action_66
+  - first:
+      213: 3651778962349816839
+    second: ml110_v_Botanist_Milo_Action_67
+  - first:
+      213: 2843409241659221649
+    second: ml110_v_Botanist_Milo_Action_68
+  - first:
+      213: 2195413115662372752
+    second: ml110_v_Botanist_Milo_Action_69
+  - first:
+      213: -1251177903349877270
+    second: ml110_v_Botanist_Milo_Action_70
+  - first:
+      213: 6951574869566743614
+    second: ml110_v_Botanist_Milo_Action_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_0
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 758
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1fcb8d381beae30800000000000000
+      internalID: 4516742656134279594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_1
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 773
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf56e8b9d566e710800000000000000
+      internalID: 1722175893300207548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_2
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 376
+        width: 3951
+        height: 4624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5add882cf26679f0800000000000000
+      internalID: -471080275861972390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 702
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e39af04d71f6a50800000000000000
+      internalID: 6516453385391652491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_4
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 734
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4909e3d218585d0c0800000000000000
+      internalID: -4551585058531667820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_5
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 715
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6465f831497c2eb80800000000000000
+      internalID: -8366905718903712186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_6
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 732
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b2a005d1b3fa600800000000000000
+      internalID: 481668682234866520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_7
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 662
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bef2040d43d57e70800000000000000
+      internalID: 9112421748787314360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_8
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 657
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d2d529de68dca30800000000000000
+      internalID: 4237191179346455862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_9
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 690
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c484c79ec4f520970800000000000000
+      internalID: 8719636612482091084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_10
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 669
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218936340b0bb01d0800000000000000
+      internalID: -3383416423947462638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_11
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 688
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d1c943039890e40800000000000000
+      internalID: 5623176449882856842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_12
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 616
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef00c9288e5a59f30800000000000000
+      internalID: 4581750613961605374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_13
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 616
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af24452551ff8a880800000000000000
+      internalID: -8599343021423312134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_14
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 641
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e982e8848fe0dd0800000000000000
+      internalID: -2517802151147168164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_15
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 620
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f806951ec919f69e0800000000000000
+      internalID: -1625920837475802993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_16
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 642
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b51f089b1b09a50800000000000000
+      internalID: 6525911270350215982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_17
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 564
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302ac61144ead9fe0800000000000000
+      internalID: -1180595919927860733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_18
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 569
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521dc65f9ca9272a0800000000000000
+      internalID: -6741155500023557851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_19
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 604
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833a64658c20f31c0800000000000000
+      internalID: -4521892441392504008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_20
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 588
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3cced4e94cd0810800000000000000
+      internalID: 1733257615798748126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_21
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 593
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e66926c41a05f30800000000000000
+      internalID: 4562323771969924675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_22
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 560
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9150b9ade05b3fa0800000000000000
+      internalID: -5819969111761858146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_23
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 548
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8ae3eed9ad69840800000000000000
+      internalID: 5230608389079214309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_24
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 569
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f2d173702347a30800000000000000
+      internalID: 4212046558069075833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_25
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 508
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9a654d28fcb47e0800000000000000
+      internalID: -1780101066879751741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_26
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 515
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349851bc4919633e0800000000000000
+      internalID: -2074310510109161149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_27
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 508
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00282915c401af6c0800000000000000
+      internalID: -4108953790050041344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_28
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 499
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b644fbc2cda583ad0800000000000000
+      internalID: -2722326073055427477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_29
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 533
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5d2bc83f820c130800000000000000
+      internalID: 3584910329889609138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_30
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 510
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204deff0923284a90800000000000000
+      internalID: -7329569734276492286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_31
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 541
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb18f976e696ec90800000000000000
+      internalID: -7140854242516395023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_32
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 447
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a257897c585965870800000000000000
+      internalID: 8671282534360315178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_33
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 456
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78cb0870def1c780800000000000000
+      internalID: -8664364036763432834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_34
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 451
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8fccf39a1741f10800000000000000
+      internalID: 2239539886443788502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_35
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 445
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c0d384780e1f5d0800000000000000
+      internalID: -3030394202606465996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_36
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 488
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a48ea0991bb08d30800000000000000
+      internalID: 4431747751808500905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_37
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 468
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2877348c75f085f00800000000000000
+      internalID: 1105650578215892866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_38
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 486
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231da639a1e34faa0800000000000000
+      internalID: -6128204909081079502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_39
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 435
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fc530d96be6de00800000000000000
+      internalID: 1069300801244352285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_40
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 418
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0091277e50e724290800000000000000
+      internalID: -7907619431886219008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_41
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 449
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50adce10584986500800000000000000
+      internalID: 389724666751408645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_42
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 383
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f4ec06d10cb1620800000000000000
+      internalID: 2745999630223167255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_43
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 394
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2212518b1c482bd10800000000000000
+      internalID: 2139918740506353954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_44
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 390
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8825115886a22bd0800000000000000
+      internalID: -2656377725789067126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_45
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 385
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c01a94174a5fb3d0800000000000000
+      internalID: -3188730749820202816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_46
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 377
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9cc0879a93195d0800000000000000
+      internalID: -3057599271981495871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_47
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 360
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d2b109588831040800000000000000
+      internalID: 4617184150214618500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_48
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 401
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bb8bd5f0f5bc8b0800000000000000
+      internalID: -5130902830857012359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_49
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 315
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b761f43fbf594590800000000000000
+      internalID: -7689509613926783055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_50
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 327
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbce4856ce933760800000000000000
+      internalID: 7436461984441093055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_51
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 325
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ede573153dd3bd40800000000000000
+      internalID: 5599061981781159394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_52
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 321
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc317c2364a1d690800000000000000
+      internalID: -7579095952033497862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_53
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 313
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e238c8dffb5d800800000000000000
+      internalID: 636626018047831646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_54
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 297
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c169f293cf187320800000000000000
+      internalID: 2555827713377657284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_55
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 344
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af466e8ad6d9ee1c0800000000000000
+      internalID: -4472464285621656326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_56
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 244
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6ed0a9f0069d3c0800000000000000
+      internalID: -4334327546242013494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_57
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 256
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8438c7ff2970684b0800000000000000
+      internalID: -5438651172070325432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_58
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 255
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01940bcae39ae6490800000000000000
+      internalID: -7751071822007744240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 252
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9045f0f53544aace0800000000000000
+      internalID: -1393226009849932791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_60
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 244
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01755b5c28505ca20800000000000000
+      internalID: 3081875579225855760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_61
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 227
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e5e9b8807393dd0800000000000000
+      internalID: -2505911207813292536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_62
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 279
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b722e044034b872b0800000000000000
+      internalID: -5586517218359893381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_63
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 170
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c44e58abd075270800000000000000
+      internalID: 8239069138059021319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_64
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 182
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6332448bcea864e0800000000000000
+      internalID: -1988147046363548817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_65
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 182
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c320e8da29b38d200800000000000000
+      internalID: 204979284208386620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_66
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 179
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8d1cd42f233e510800000000000000
+      internalID: 1577160310777829600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_67
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 170
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cfa194e99bda230800000000000000
+      internalID: 3651778962349816839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_68
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 208
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1962928e3a1d57720800000000000000
+      internalID: 2843409241659221649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 917
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f0a4ec89ca77e10800000000000000
+      internalID: 2195413115662372752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_70
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 153
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae53300735ce2aee0800000000000000
+      internalID: -1251177903349877270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ml110_v_Botanist_Milo_Action_71
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 134
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34ee0a4384f87060800000000000000
+      internalID: 6951574869566743614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ml110_v_Botanist_Milo_Action_0: 4516742656134279594
+      ml110_v_Botanist_Milo_Action_1: 1722175893300207548
+      ml110_v_Botanist_Milo_Action_10: -3383416423947462638
+      ml110_v_Botanist_Milo_Action_11: 5623176449882856842
+      ml110_v_Botanist_Milo_Action_12: 4581750613961605374
+      ml110_v_Botanist_Milo_Action_13: -8599343021423312134
+      ml110_v_Botanist_Milo_Action_14: -2517802151147168164
+      ml110_v_Botanist_Milo_Action_15: -1625920837475802993
+      ml110_v_Botanist_Milo_Action_16: 6525911270350215982
+      ml110_v_Botanist_Milo_Action_17: -1180595919927860733
+      ml110_v_Botanist_Milo_Action_18: -6741155500023557851
+      ml110_v_Botanist_Milo_Action_19: -4521892441392504008
+      ml110_v_Botanist_Milo_Action_2: -471080275861972390
+      ml110_v_Botanist_Milo_Action_20: 1733257615798748126
+      ml110_v_Botanist_Milo_Action_21: 4562323771969924675
+      ml110_v_Botanist_Milo_Action_22: -5819969111761858146
+      ml110_v_Botanist_Milo_Action_23: 5230608389079214309
+      ml110_v_Botanist_Milo_Action_24: 4212046558069075833
+      ml110_v_Botanist_Milo_Action_25: -1780101066879751741
+      ml110_v_Botanist_Milo_Action_26: -2074310510109161149
+      ml110_v_Botanist_Milo_Action_27: -4108953790050041344
+      ml110_v_Botanist_Milo_Action_28: -2722326073055427477
+      ml110_v_Botanist_Milo_Action_29: 3584910329889609138
+      ml110_v_Botanist_Milo_Action_3: 6516453385391652491
+      ml110_v_Botanist_Milo_Action_30: -7329569734276492286
+      ml110_v_Botanist_Milo_Action_31: -7140854242516395023
+      ml110_v_Botanist_Milo_Action_32: 8671282534360315178
+      ml110_v_Botanist_Milo_Action_33: -8664364036763432834
+      ml110_v_Botanist_Milo_Action_34: 2239539886443788502
+      ml110_v_Botanist_Milo_Action_35: -3030394202606465996
+      ml110_v_Botanist_Milo_Action_36: 4431747751808500905
+      ml110_v_Botanist_Milo_Action_37: 1105650578215892866
+      ml110_v_Botanist_Milo_Action_38: -6128204909081079502
+      ml110_v_Botanist_Milo_Action_39: 1069300801244352285
+      ml110_v_Botanist_Milo_Action_4: -4551585058531667820
+      ml110_v_Botanist_Milo_Action_40: -7907619431886219008
+      ml110_v_Botanist_Milo_Action_41: 389724666751408645
+      ml110_v_Botanist_Milo_Action_42: 2745999630223167255
+      ml110_v_Botanist_Milo_Action_43: 2139918740506353954
+      ml110_v_Botanist_Milo_Action_44: -2656377725789067126
+      ml110_v_Botanist_Milo_Action_45: -3188730749820202816
+      ml110_v_Botanist_Milo_Action_46: -3057599271981495871
+      ml110_v_Botanist_Milo_Action_47: 4617184150214618500
+      ml110_v_Botanist_Milo_Action_48: -5130902830857012359
+      ml110_v_Botanist_Milo_Action_49: -7689509613926783055
+      ml110_v_Botanist_Milo_Action_5: -8366905718903712186
+      ml110_v_Botanist_Milo_Action_50: 7436461984441093055
+      ml110_v_Botanist_Milo_Action_51: 5599061981781159394
+      ml110_v_Botanist_Milo_Action_52: -7579095952033497862
+      ml110_v_Botanist_Milo_Action_53: 636626018047831646
+      ml110_v_Botanist_Milo_Action_54: 2555827713377657284
+      ml110_v_Botanist_Milo_Action_55: -4472464285621656326
+      ml110_v_Botanist_Milo_Action_56: -4334327546242013494
+      ml110_v_Botanist_Milo_Action_57: -5438651172070325432
+      ml110_v_Botanist_Milo_Action_58: -7751071822007744240
+      ml110_v_Botanist_Milo_Action_59: -1393226009849932791
+      ml110_v_Botanist_Milo_Action_6: 481668682234866520
+      ml110_v_Botanist_Milo_Action_60: 3081875579225855760
+      ml110_v_Botanist_Milo_Action_61: -2505911207813292536
+      ml110_v_Botanist_Milo_Action_62: -5586517218359893381
+      ml110_v_Botanist_Milo_Action_63: 8239069138059021319
+      ml110_v_Botanist_Milo_Action_64: -1988147046363548817
+      ml110_v_Botanist_Milo_Action_65: 204979284208386620
+      ml110_v_Botanist_Milo_Action_66: 1577160310777829600
+      ml110_v_Botanist_Milo_Action_67: 3651778962349816839
+      ml110_v_Botanist_Milo_Action_68: 2843409241659221649
+      ml110_v_Botanist_Milo_Action_69: 2195413115662372752
+      ml110_v_Botanist_Milo_Action_7: 9112421748787314360
+      ml110_v_Botanist_Milo_Action_70: -1251177903349877270
+      ml110_v_Botanist_Milo_Action_71: 6951574869566743614
+      ml110_v_Botanist_Milo_Action_8: 4237191179346455862
+      ml110_v_Botanist_Milo_Action_9: 8719636612482091084
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

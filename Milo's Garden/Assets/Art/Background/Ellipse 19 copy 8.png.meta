@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 193ded935baf1214e8309240daf7e63f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8650247909989184123
+    second: Ellipse 19 copy 8_0
+  - first:
+      213: 8270022602419627683
+    second: Ellipse 19 copy 8_1
+  - first:
+      213: 6578662557892378336
+    second: Ellipse 19 copy 8_2
+  - first:
+      213: 9137499684648080790
+    second: Ellipse 19 copy 8_3
+  - first:
+      213: 8728655779317750127
+    second: Ellipse 19 copy 8_4
+  - first:
+      213: 1888435354022587187
+    second: Ellipse 19 copy 8_5
+  - first:
+      213: -108587541596571526
+    second: Ellipse 19 copy 8_6
+  - first:
+      213: -8508681197392606653
+    second: Ellipse 19 copy 8_7
+  - first:
+      213: 242491010569288387
+    second: Ellipse 19 copy 8_8
+  - first:
+      213: -149797069079630832
+    second: Ellipse 19 copy 8_9
+  - first:
+      213: -7122761018042245455
+    second: Ellipse 19 copy 8_10
+  - first:
+      213: -5119576184996877192
+    second: Ellipse 19 copy 8_11
+  - first:
+      213: 1991202115081104361
+    second: Ellipse 19 copy 8_12
+  - first:
+      213: 3351153395952571080
+    second: Ellipse 19 copy 8_13
+  - first:
+      213: 9084531399036916731
+    second: Ellipse 19 copy 8_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ellipse 19 copy 8_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 401
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7278f5a4aadb0870800000000000000
+      internalID: 8650247909989184123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellipse 19 copy 8_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 285
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a66cad8db505c270800000000000000
+      internalID: 8270022602419627683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellipse 19 copy 8_2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 240
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee765cbdba1c4b50800000000000000
+      internalID: 6578662557892378336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellipse 19 copy 8_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 220
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69551b6fc8beece70800000000000000
+      internalID: 9137499684648080790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellipse 19 copy 8_4
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 236
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6915e45f2a622970800000000000000
+      internalID: 8728655779317750127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellipse 19 copy 8_5
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 206
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b2ec9f2f1153a10800000000000000
+      internalID: 1888435354022587187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellipse 19 copy 8_6
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 200
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a787a1cc4383e7ef0800000000000000
+      internalID: -108587541596571526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellipse 19 copy 8_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 122
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a4e5a28871be980800000000000000
+      internalID: -8508681197392606653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellipse 19 copy 8_8
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 122
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca35321a408d5300800000000000000
+      internalID: 242491010569288387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellipse 19 copy 8_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c2d1dfb50dbedf0800000000000000
+      internalID: -149797069079630832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellipse 19 copy 8_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 86
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be9793979ed62d90800000000000000
+      internalID: -7122761018042245455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellipse 19 copy 8_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 92
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c26bc959c93f8b0800000000000000
+      internalID: -5119576184996877192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellipse 19 copy 8_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 56
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb6a6916cb22ab10800000000000000
+      internalID: 1991202115081104361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellipse 19 copy 8_13
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 4
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2d8992240b18e20800000000000000
+      internalID: 3351153395952571080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellipse 19 copy 8_14
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf35a7eec2db21e70800000000000000
+      internalID: 9084531399036916731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ellipse 19 copy 8_0: 8650247909989184123
+      Ellipse 19 copy 8_1: 8270022602419627683
+      Ellipse 19 copy 8_10: -7122761018042245455
+      Ellipse 19 copy 8_11: -5119576184996877192
+      Ellipse 19 copy 8_12: 1991202115081104361
+      Ellipse 19 copy 8_13: 3351153395952571080
+      Ellipse 19 copy 8_14: 9084531399036916731
+      Ellipse 19 copy 8_2: 6578662557892378336
+      Ellipse 19 copy 8_3: 9137499684648080790
+      Ellipse 19 copy 8_4: 8728655779317750127
+      Ellipse 19 copy 8_5: 1888435354022587187
+      Ellipse 19 copy 8_6: -108587541596571526
+      Ellipse 19 copy 8_7: -8508681197392606653
+      Ellipse 19 copy 8_8: 242491010569288387
+      Ellipse 19 copy 8_9: -149797069079630832
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
