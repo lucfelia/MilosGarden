@@ -1,0 +1,15 @@
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class Restart : MonoBehaviour
+{
+    public void RestartGame()
+    {
+       SceneManager.LoadScene("MainMenu");
+    }
+
+    public void StartGame()
+    {
+        SceneManager.LoadScene("Gameplay");
+    }
+}
