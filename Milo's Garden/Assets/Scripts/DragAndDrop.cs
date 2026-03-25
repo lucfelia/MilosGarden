@@ -9,14 +9,31 @@ public class DragAndDrop : MonoBehaviour
 	[Header("Posicion a la que volver al soltarlo")]
 	public Transform startPoint;
 	public float speed = 2.5f;
+	public float rotspeed = 0.1f;
+	public ParticleSystem water;
+	private bool isWatering = false;
+    Quaternion targetRotation = Quaternion.Euler(0.0f, 0.0f, 45.0f);
+    Quaternion currentRotation;
 
-	//	Al cogerlo "isDragging = true"
-	void OnMouseDown()
+    private void Start()
+    {
+		currentRotation = transform.rotation;
+    }
+
+    //	Al cogerlo "isDragging = true"
+    void OnMouseDown()
 	{
 		Vector3 mouseWorld = GetMouseWorldPosition();
 		offset = transform.position - mouseWorld;
 		isDragging = true;
-	}
+		if (GameManager.Manager.currentState==GameManager.GameState.Water)
+		{
+			isWatering = true;
+            water.Play();
+			return;
+        }
+
+    }
 
 	//	Al arrastrar "isDragging?"
 	void OnMouseDrag()
@@ -32,13 +49,23 @@ public class DragAndDrop : MonoBehaviour
 	void OnMouseUp()
 	{
 		isDragging = false;
-	}
+        if (GameManager.Manager.currentState == GameManager.GameState.Water)
+        {
+            isWatering = false;
+            water.Stop();
+        }
+    }
 
 	//	Si se ha soltado "isDragging?", regresa a su pos inicial "startPoint"!
 	void Update()
 	{
 		if (!isDragging)
 			transform.position = Vector3.Lerp(transform.position, startPoint.position, Time.deltaTime * speed);
+
+		if (isWatering)
+            transform.rotation = Quaternion.Lerp(targetRotation, currentRotation, Time.deltaTime * rotspeed);
+		else
+            transform.rotation = Quaternion.Lerp(currentRotation, targetRotation, Time.deltaTime * rotspeed);
 	}
 
 	//	Calculo entre la pos del mouse con la pos del mundo
@@ -53,6 +80,7 @@ public class DragAndDrop : MonoBehaviour
 	public void ResetPosition()
 	{
 		isDragging = false;
-		transform.position = startPoint.position;
+        isWatering = false;
+        transform.position = startPoint.position;
 	}
 }
