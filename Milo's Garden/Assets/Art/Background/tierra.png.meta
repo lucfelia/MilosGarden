@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7d5d22af5a6e3bb4ba6eb073d779aa2f
+guid: 011ef03da81dabb48974831fe1e05d3e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5279978394141501468
-    second: Ellipse 3 copy 3_0
+      213: -910554722357448337
+    second: tierra_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ellipse 3 copy 3_0
+      name: tierra_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 950
-        height: 106
+        width: 5887
+        height: 148
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e7557300afb9b6b0800000000000000
-      internalID: -5279978394141501468
+      spriteID: f617459ed4f0d53f0800000000000000
+      internalID: -910554722357448337
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Ellipse 3 copy 3_0: -5279978394141501468
+      tierra_0: -910554722357448337
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
