@@ -23,6 +23,12 @@ public class GameManager : MonoBehaviour
 	private Animator plantAnim;
 	public GameObject gameOver;
 
+    public AudioSource audioSource;
+    public AudioClip plantSound;
+    public AudioClip growSound;
+    public AudioClip harvestSound;
+    public AudioClip gameoverSound;
+
     [HideInInspector] public GameState currentState = GameState.Plant;
 	[HideInInspector] public bool isInteractionSucceed = false;
 	private float timer = 0.0f;
@@ -63,7 +69,8 @@ public class GameManager : MonoBehaviour
 			{
 				isInteractionSucceed = false;
 				Debug.Log("Seed planted!");
-				seed.SetActive(true);
+                audioSource.PlayOneShot(plantSound);
+                seed.SetActive(true);
 				ChangeState();
 			}
 		}
@@ -93,6 +100,7 @@ public class GameManager : MonoBehaviour
 					{
 						plantAnim.speed = 0f;
 					}
+                    audioSource.PlayOneShot(growSound);
                 }
 			}
 			else
@@ -107,7 +115,8 @@ public class GameManager : MonoBehaviour
 
 			if (fruitHolder.transform.childCount <= 0)
 			{
-				gameFinished = true;
+                audioSource.PlayOneShot(harvestSound);
+                gameFinished = true;
 				Debug.Log("Strawberrys Harvested!");
 			}
 		}
@@ -116,7 +125,7 @@ public class GameManager : MonoBehaviour
 	//	Metodo para cambiar de estado "currentState++" y el sprite del jugador "playerSprite"
 	public void ChangeState()
 	{
-		currentState++;
+        currentState++;
 		if ((int)currentState >= sprites.Length)
 			currentState = GameState.Plant;
         GameState state = currentState;
@@ -180,7 +189,8 @@ public class GameManager : MonoBehaviour
 		Time.timeScale = 1.0f;
 		if (gameFinished)
 		{
-			gameOver.SetActive(true);
+            audioSource.PlayOneShot(gameoverSound);
+            gameOver.SetActive(true);
 			info.transform.parent.transform.gameObject.SetActive(false);
 			Destroy(this);
 		}
