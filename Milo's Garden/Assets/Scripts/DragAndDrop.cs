@@ -11,6 +11,7 @@ public class DragAndDrop : MonoBehaviour
 	public float speed = 2.5f;
 	public float rotspeed = 0.1f;
 	public ParticleSystem water;
+	public GameObject holder;
 	public GameObject arrow1;
 	public GameObject arrow2;
 	private bool isWatering = false;
@@ -22,6 +23,7 @@ public class DragAndDrop : MonoBehaviour
 		currentRotation = transform.rotation;
         arrow1.SetActive(true);
         arrow2.SetActive(false);
+        holder.SetActive(true);
     }
 
     //	Al cogerlo "isDragging = true"
@@ -31,6 +33,7 @@ public class DragAndDrop : MonoBehaviour
 		offset = transform.position - mouseWorld;
 		isDragging = true;
         arrow1.SetActive(false);
+        holder.SetActive(false);
         if (GameManager.Manager.currentState == GameManager.GameState.Plant)
 			arrow2.SetActive(true);
 		if (GameManager.Manager.currentState==GameManager.GameState.Water)
@@ -61,6 +64,7 @@ public class DragAndDrop : MonoBehaviour
             water.Stop();
         }
         arrow1.SetActive(true);
+        holder.SetActive(true);
         arrow2.SetActive(false);
     }
 
