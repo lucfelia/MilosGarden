@@ -1,6 +1,7 @@
 using System.Collections;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
@@ -47,9 +48,13 @@ public class GameManager : MonoBehaviour
 	void Update()
 	{
 		if (gameFinished)
-			return;
-		//	Plantamos la semilla si se ha colocado esta correctamente "isInteractionSucceed = true" y cambiamos estado "ChangeState()"
-		if (currentState == GameState.Plant)
+		{
+			SceneManager.LoadScene("GameOver");
+            return;
+			
+        }
+        //	Plantamos la semilla si se ha colocado esta correctamente "isInteractionSucceed = true" y cambiamos estado "ChangeState()"
+        if (currentState == GameState.Plant)
 		{
 			if (isInteractionSucceed)
 			{
