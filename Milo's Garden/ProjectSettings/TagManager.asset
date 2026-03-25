@@ -42,5 +42,11 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Fruta
+    uniqueID: 27493875
+    locked: 0
+  - name: Important
+    uniqueID: 974645999
+    locked: 0
   m_RenderingLayers:
   - Default

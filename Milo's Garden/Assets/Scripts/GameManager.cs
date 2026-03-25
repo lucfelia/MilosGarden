@@ -27,7 +27,6 @@ public class GameManager : MonoBehaviour
 	[HideInInspector] public bool isInteractionSucceed = false;
 	private float timer = 0.0f;
 	private bool gameFinished = false;
-	private bool once = true;
 
     private void Awake()
 	{
@@ -53,7 +52,8 @@ public class GameManager : MonoBehaviour
 	{
 		if (gameFinished)
 		{
-			SceneManager.LoadScene("GameOver");
+            StartCoroutine(Complete(currentState));
+            SceneManager.LoadScene("GameOver");
             return;
 			
         }
@@ -76,7 +76,11 @@ public class GameManager : MonoBehaviour
 				timer += Time.deltaTime;
 				slider.value = timer / waterTime;
                 if (plantAnim != null)
-                    plantAnim.speed = 2.5f/waterTime; 
+                {
+                    AnimationClip clip = plantAnim.runtimeAnimatorController.animationClips[0];
+                    float animLength = clip.length;
+                    plantAnim.speed = animLength / waterTime;
+                }
                 //	Si se alcanza el maximo valor cambiamos de estado "ChangeState()"
                 if (timer >= waterTime)
 				{
@@ -95,9 +99,7 @@ public class GameManager : MonoBehaviour
 			else
 			{
                 if (plantAnim.GetCurrentAnimatorClipInfo(0).Length > 0 && plantAnim.GetCurrentAnimatorClipInfo(0)[0].clip.name == "Growing")
-                {
                     plantAnim.speed = 0f;
-                }
             }
         }
 		//	Si detecta que ya no quedan frutas "fruitHolder.transform.childCount <= 0", entonces se termina el juego!
@@ -106,7 +108,6 @@ public class GameManager : MonoBehaviour
 
 			if (fruitHolder.transform.childCount <= 0)
 			{
-				StartCoroutine(Complete(currentState));
 				gameFinished = true;
 				Debug.Log("Strawberrys Harvested!");
 			}
@@ -154,15 +155,15 @@ public class GameManager : MonoBehaviour
 		switch (state)
 		{
 			case GameState.Plant:
-				info.text = "Plantar semilla";
+				info.text = "Planta la semilla";
 
 				break;
 			case GameState.Water:
-				info.text = "Regar semilla";
+				info.text = "Riega la planta";
 
 				break;
 			case GameState.Harvest:
-				info.text = "Recollectar fresas";
+				info.text = "Recoge las fresas";
 				break;
 			default:
 				break;
