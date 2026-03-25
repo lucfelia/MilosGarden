@@ -1,7 +1,6 @@
 using System.Collections;
 using TMPro;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
@@ -22,6 +21,7 @@ public class GameManager : MonoBehaviour
     public GameObject fruitHolder;
 	public GameObject waterHolder;
 	private Animator plantAnim;
+	public GameObject gameOver;
 
     [HideInInspector] public GameState currentState = GameState.Plant;
 	[HideInInspector] public bool isInteractionSucceed = false;
@@ -44,8 +44,8 @@ public class GameManager : MonoBehaviour
 		panel.SetActive(false);
 		seed.SetActive(false);
 		InfoUpdate(currentState);
-
-	}
+        gameOver.SetActive(false);
+    }
 
 	//	Cada frame validamos en que estado esta el juego y ejecutamos la logica de este
 	void Update()
@@ -53,7 +53,6 @@ public class GameManager : MonoBehaviour
 		if (gameFinished)
 		{
             StartCoroutine(Complete(currentState));
-            SceneManager.LoadScene("GameOver");
             return;
 			
         }
@@ -179,5 +178,10 @@ public class GameManager : MonoBehaviour
 		panel.SetActive(false);
 		InfoUpdate(state);
 		Time.timeScale = 1.0f;
-	}
+		if (gameFinished)
+		{
+			gameOver.SetActive(true);
+			Destroy(this);
+		}
+    }
 }
