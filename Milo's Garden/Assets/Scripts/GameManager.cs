@@ -18,16 +18,18 @@ public class GameManager : MonoBehaviour
 	public SpriteRenderer playerSprite;
 	public Slider slider;
 	public GameObject seed;
-	public float waterTime = 5.0f;
-	public GameObject fruitHolder;
+	public float waterTime = 5.0f;// que sea igual que la animacion de crecimiento de la planta
+    public GameObject fruitHolder;
 	public GameObject waterHolder;
+	public Animator plantAnim;
 
-	[HideInInspector] public GameState currentState = GameState.Plant;
+    [HideInInspector] public GameState currentState = GameState.Plant;
 	[HideInInspector] public bool isInteractionSucceed = false;
 	private float timer = 0.0f;
 	private bool gameFinished = false;
+	private bool once = true;
 
-	private void Awake()
+    private void Awake()
 	{
 		Manager = this;
 	}
@@ -67,15 +69,14 @@ public class GameManager : MonoBehaviour
 		//	Si detecta agua en el terreno "isInteractionSucceed = true" entonces el slider va avanzando "timer / waterTime"
 		else if (currentState == GameState.Water)
 		{
-			slider.gameObject.SetActive(true);
-			waterHolder.SetActive(true);
 			if (isInteractionSucceed)
 			{
 				timer += Time.deltaTime;
 				slider.value = timer / waterTime;
-	
-				//	Si se alcanza el maximo valor cambiamos de estado "ChangeState()"
-				if (timer >= waterTime)
+                if (plantAnim != null)
+                    plantAnim.speed = 1f/waterTime; 
+                //	Si se alcanza el maximo valor cambiamos de estado "ChangeState()"
+                if (timer >= waterTime)
 				{
 					timer = 0f;
 					slider.value = 0;
@@ -83,15 +84,24 @@ public class GameManager : MonoBehaviour
 					isInteractionSucceed = false;
 					Debug.Log("Plant Watered!");
 					ChangeState();
-				}
+					if (plantAnim != null)
+					{
+						plantAnim.speed = 0f;
+					}
+                }
 			}
-		}
+			else
+			{
+                if (plantAnim != null)
+				{
+                    plantAnim.speed = 0f;
+                }
+            }
+        }
 		//	Si detecta que ya no quedan frutas "fruitHolder.transform.childCount <= 0", entonces se termina el juego!
 		else if (currentState == GameState.Harvest)
 		{
-			slider.gameObject.SetActive(false);
-			waterHolder.SetActive(false);
-			fruitHolder.SetActive(true);
+
 			if (fruitHolder.transform.childCount <= 0)
 			{
 				StartCoroutine(Complete(currentState));
@@ -107,7 +117,31 @@ public class GameManager : MonoBehaviour
 		currentState++;
 		if ((int)currentState >= sprites.Length)
 			currentState = GameState.Plant;
-		playerSprite.gameObject.GetComponent<DragAndDrop>().ResetPosition();
+        GameState state = currentState;
+        switch (state)
+        {
+            case GameState.Plant:
+                break;
+            case GameState.Water:
+				if (plantAnim != null)
+				{
+					plantAnim.gameObject.SetActive(true);
+                    plantAnim.SetTrigger("StartGrowing");
+				}
+                slider.gameObject.SetActive(true);
+                waterHolder.SetActive(true);
+                break;
+            case GameState.Harvest:
+                slider.gameObject.SetActive(false);
+                waterHolder.SetActive(false);
+                fruitHolder.SetActive(true);
+				if(plantAnim != null)
+					plantAnim.SetTrigger("IdleRecolect");
+                break;
+            default:
+                break;
+        }
+        playerSprite.gameObject.GetComponent<DragAndDrop>().ResetPosition();
 		playerSprite.sprite = sprites[(int)currentState];
 		StartCoroutine(Complete(currentState));
 	}
@@ -119,9 +153,11 @@ public class GameManager : MonoBehaviour
 		{
 			case GameState.Plant:
 				info.text = "Plantar semilla";
+
 				break;
 			case GameState.Water:
 				info.text = "Regar semilla";
+
 				break;
 			case GameState.Harvest:
 				info.text = "Recollectar fresas";
