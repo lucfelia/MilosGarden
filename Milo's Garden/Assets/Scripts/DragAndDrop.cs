@@ -11,6 +11,8 @@ public class DragAndDrop : MonoBehaviour
 	public float speed = 2.5f;
 	public float rotspeed = 0.1f;
 	public ParticleSystem water;
+	public GameObject arrow1;
+	public GameObject arrow2;
 	private bool isWatering = false;
     Quaternion targetRotation = Quaternion.Euler(0.0f, 0.0f, 45.0f);
     Quaternion currentRotation;
@@ -18,6 +20,8 @@ public class DragAndDrop : MonoBehaviour
     private void Start()
     {
 		currentRotation = transform.rotation;
+        arrow1.SetActive(true);
+        arrow2.SetActive(false);
     }
 
     //	Al cogerlo "isDragging = true"
@@ -26,13 +30,15 @@ public class DragAndDrop : MonoBehaviour
 		Vector3 mouseWorld = GetMouseWorldPosition();
 		offset = transform.position - mouseWorld;
 		isDragging = true;
+        arrow1.SetActive(false);
+        if (GameManager.Manager.currentState == GameManager.GameState.Plant)
+			arrow2.SetActive(true);
 		if (GameManager.Manager.currentState==GameManager.GameState.Water)
 		{
 			isWatering = true;
             water.Play();
 			return;
         }
-
     }
 
 	//	Al arrastrar "isDragging?"
@@ -54,6 +60,8 @@ public class DragAndDrop : MonoBehaviour
             isWatering = false;
             water.Stop();
         }
+        arrow1.SetActive(true);
+        arrow2.SetActive(false);
     }
 
 	//	Si se ha soltado "isDragging?", regresa a su pos inicial "startPoint"!

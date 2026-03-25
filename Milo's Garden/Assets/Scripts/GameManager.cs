@@ -181,6 +181,7 @@ public class GameManager : MonoBehaviour
 		if (gameFinished)
 		{
 			gameOver.SetActive(true);
+			info.transform.parent.transform.gameObject.SetActive(false);
 			Destroy(this);
 		}
     }
